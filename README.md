@@ -24,4 +24,12 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/eman-ramadan1/problem_solving/tree/master/0053-maximum-subarray) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/eman-ramadan1/problem_solving/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/eman-ramadan1/problem_solving/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

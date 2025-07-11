@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/eman-ramadan1/problem_solving/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/eman-ramadan1/problem_solving/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/eman-ramadan1/problem_solving/tree/master/0066-plus-one) |
 ## Math
 |  |
@@ -15,4 +16,12 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/eman-ramadan1/problem_solving/tree/master/0001-two-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/eman-ramadan1/problem_solving/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/eman-ramadan1/problem_solving/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->

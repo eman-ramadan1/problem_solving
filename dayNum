@@ -1,0 +1,27 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+int dayNum;
+cin>>dayNum;
+if(dayNum=1)
+cout<<"sutrday ";
+ else if(dayNum=2)
+cout<<"sunday ";
+else if(dayNum=3)
+cout<<"munday ";
+
+else if(dayNum=4)
+cout<<"tuesday ";
+
+else if(dayNum=5)
+cout<<"wendsday ";
+else if(dayNum=6)
+cout<<"thursday ";
+else if(dayNum=7)
+cout<<"friday ";
+
+    return 0;
+
+    
+}

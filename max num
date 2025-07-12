@@ -1,0 +1,18 @@
+
+//check maximum number
+#include <iostream>
+using namespace std;
+int main()
+{
+int i , j;
+ cout<<"Entr two intger numbers ";
+ cin>>i>>j;
+ if(i >j)
+ cout<<"i is greater ";
+ 
+ else 
+ cout<<"j is greater";
+    return 0;
+
+    
+}

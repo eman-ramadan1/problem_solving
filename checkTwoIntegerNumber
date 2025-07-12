@@ -1,0 +1,17 @@
+//1-check if two intger num is equal
+//////////////////////////////////////////////
+#include<iostream>
+#include <stdio.h>
+using namespace std;
+
+int main()
+{
+ int i,j;
+ cout<<"Entr two intger numbers";
+ cin>>i>>j;
+ if(i==j)
+ cout<<"equal";
+ else 
+ cout<<"not equal";
+    return 0;
+}
